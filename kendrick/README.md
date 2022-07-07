@@ -21,4 +21,4 @@
 
 ### 07/07
 
-- Finished [webpage](KendrickXie.github.io)
+- Finished [webpage](https://kendrickxie.github.io)
