@@ -22,3 +22,10 @@
 ### 07/07
 
 - Finished [webpage](https://kendrickxie.github.io)
+- Attend GitHub tutorial meeting
+
+### 07/08
+
+- Attend weekly update meeting
+- Take picture for personal and RPL webpages
+- Complete required training for badge to access lab room
